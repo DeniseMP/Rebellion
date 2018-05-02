@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 7301c77d181c21e48943dd48a70692d9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box24
+    100002: Box11
+    100004: Box28
+    100006: Box12
+    100008: Dummy02
+    100010: Dummy12
+    100012: IK Chain09
+    100014: IK Chain11
+    100016: Box26
+    100018: IK Chain06
+    100020: IK Chain16
+    100022: Box06
+    100024: Dummy08
+    100026: IK Chain01
+    100028: Dummy19
+    100030: Box16
+    100032: Dummy03
+    100034: Dummy17
+    100036: Box17
+    100038: Box36
+    100040: Box20
+    100042: Dummy01
+    100044: Box23
+    100046: Dummy14
+    100048: Box25
+    100050: Dummy13
+    100052: Box31
+    100054: Box27
+    100056: IK Chain04
+    100058: IK Chain14
+    100060: Box19
+    100062: Box35
+    100064: IK Chain05
+    100066: IK Chain15
+    100068: IK Chain03
+    100070: IK Chain02
+    100072: Box22
+    100074: Dummy11
+    100076: Dummy16
+    100078: IK Chain10
+    100080: Box21
+    100082: Box18
+    100084: Box32
+    100086: Dummy04
+    100088: Dummy07
+    100090: Box38
+    100092: Box37
+    100094: Dummy18
+    100096: Box09
+    100098: Box29
+    100100: Box34
+    100102: Box30
+    100104: Box10
+    100106: //RootNode
+    100108: Box05
+    100110: Box33
+    100112: Dummy09
+    100114: Box07
+    100116: Dummy10
+    100118: Box08
+    100120: Box04
+    100122: Box03
+    100124: Box02
+    100126: Box01
+    100128: Spider01
+    100130: Box13
+    100132: Dummy15
+    100134: IK Chain07
+    100136: IK Chain13
+    100138: IK Chain08
+    100140: IK Chain12
+    400000: Box24
+    400002: Box11
+    400004: Box28
+    400006: Box12
+    400008: Dummy02
+    400010: Dummy12
+    400012: IK Chain09
+    400014: IK Chain11
+    400016: Box26
+    400018: IK Chain06
+    400020: IK Chain16
+    400022: Box06
+    400024: Dummy08
+    400026: IK Chain01
+    400028: Dummy19
+    400030: Box16
+    400032: Dummy03
+    400034: Dummy17
+    400036: Box17
+    400038: Box36
+    400040: Box20
+    400042: Dummy01
+    400044: Box23
+    400046: Dummy14
+    400048: Box25
+    400050: Dummy13
+    400052: Box31
+    400054: Box27
+    400056: IK Chain04
+    400058: IK Chain14
+    400060: Box19
+    400062: Box35
+    400064: IK Chain05
+    400066: IK Chain15
+    400068: IK Chain03
+    400070: IK Chain02
+    400072: Box22
+    400074: Dummy11
+    400076: Dummy16
+    400078: IK Chain10
+    400080: Box21
+    400082: Box18
+    400084: Box32
+    400086: Dummy04
+    400088: Dummy07
+    400090: Box38
+    400092: Box37
+    400094: Dummy18
+    400096: Box09
+    400098: Box29
+    400100: Box34
+    400102: Box30
+    400104: Box10
+    400106: //RootNode
+    400108: Box05
+    400110: Box33
+    400112: Dummy09
+    400114: Box07
+    400116: Dummy10
+    400118: Box08
+    400120: Box04
+    400122: Box03
+    400124: Box02
+    400126: Box01
+    400128: Spider01
+    400130: Box13
+    400132: Dummy15
+    400134: IK Chain07
+    400136: IK Chain13
+    400138: IK Chain08
+    400140: IK Chain12
+    2300000: Box24
+    2300002: Box11
+    2300004: Box28
+    2300006: Box12
+    2300008: Box26
+    2300010: Box06
+    2300012: Box16
+    2300014: Box17
+    2300016: Box36
+    2300018: Box20
+    2300020: Box23
+    2300022: Box25
+    2300024: Box31
+    2300026: Box27
+    2300028: Box19
+    2300030: Box35
+    2300032: Box22
+    2300034: Box21
+    2300036: Box18
+    2300038: Box32
+    2300040: Box38
+    2300042: Box37
+    2300044: Box09
+    2300046: Box29
+    2300048: Box34
+    2300050: Box30
+    2300052: Box10
+    2300054: Box05
+    2300056: Box33
+    2300058: Box07
+    2300060: Box08
+    2300062: Box04
+    2300064: Box03
+    2300066: Box02
+    2300068: Box01
+    2300070: Box13
+    3300000: Box24
+    3300002: Box11
+    3300004: Box28
+    3300006: Box12
+    3300008: Box26
+    3300010: Box06
+    3300012: Box16
+    3300014: Box17
+    3300016: Box36
+    3300018: Box20
+    3300020: Box23
+    3300022: Box25
+    3300024: Box31
+    3300026: Box27
+    3300028: Box19
+    3300030: Box35
+    3300032: Box22
+    3300034: Box21
+    3300036: Box18
+    3300038: Box32
+    3300040: Box38
+    3300042: Box37
+    3300044: Box09
+    3300046: Box29
+    3300048: Box34
+    3300050: Box30
+    3300052: Box10
+    3300054: Box05
+    3300056: Box33
+    3300058: Box07
+    3300060: Box08
+    3300062: Box04
+    3300064: Box03
+    3300066: Box02
+    3300068: Box01
+    3300070: Box13
+    4300000: Spider01
+    4300002: Box01
+    4300004: Box02
+    4300006: Box03
+    4300008: Box04
+    4300010: Box08
+    4300012: Box07
+    4300014: Box05
+    4300016: Box16
+    4300018: Box06
+    4300020: Box17
+    4300022: Box12
+    4300024: Box13
+    4300026: Box09
+    4300028: Box10
+    4300030: Box11
+    4300032: Box20
+    4300034: Box18
+    4300036: Box19
+    4300038: Box25
+    4300040: Box22
+    4300042: Box23
+    4300044: Box26
+    4300046: Box21
+    4300048: Box24
+    4300050: Box31
+    4300052: Box28
+    4300054: Box29
+    4300056: Box35
+    4300058: Box32
+    4300060: Box36
+    4300062: Box37
+    4300064: Box33
+    4300066: Box34
+    4300068: Box38
+    4300070: Box27
+    4300072: Box30
+    7400000: Damage
+    7400002: Damage
+    7400004: Walk
+    7400006: Attack
+    7400008: Defence
+    7400010: Death
+    11100000: //RootNode
+    13700000: Box01
+    13700002: Spider01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 65
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Defence
+      takeName: Take 001
+      firstFrame: 193
+      lastFrame: 259
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 257
+      lastFrame: 300
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Damage
+      takeName: Take 001
+      firstFrame: 33
+      lastFrame: 60
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0299999993
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

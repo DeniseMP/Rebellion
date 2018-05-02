@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 8c025df30fdbe7445b8679faaeec316a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Column006
+    100002: Column Top 003
+    100004: Column Top 002
+    100006: //RootNode
+    100008: Tube002
+    100010: Column004
+    100012: Column008
+    100014: Column Block Top 007
+    100016: Column Block 007
+    100018: Column Block Top 003
+    100020: Column Block 003
+    100022: Column Block Top 002
+    100024: Column Block 002
+    100026: Column Block Top 008
+    100028: Column Block 008
+    100030: Column Block Top 001
+    100032: Column002
+    100034: Column Top 001
+    100036: Column Base 01
+    100038: Stand
+    100040: Column Base 005
+    100042: Column Block 01
+    100044: Column Top 006
+    100046: Base
+    100048: Column Block Top 006
+    100050: Column Block 006
+    100052: Column Block Top 005
+    100054: Column Block 005
+    100056: Column Block Top 004
+    100058: Column Block 004
+    100060: Column01
+    100062: Column007
+    100064: Column Top 004
+    100066: Tube001
+    100068: Column Base 002
+    100070: Column Base 007
+    100072: Column Top 005
+    100074: Column Base 004
+    100076: Column Top 007
+    100078: Column Base 008
+    100080: Column Top 008
+    100082: Top Detail
+    100084: Column003
+    100086: Column005
+    100088: Column Base 003
+    100090: Column Base 006
+    400000: Column006
+    400002: Column Top 003
+    400004: Column Top 002
+    400006: //RootNode
+    400008: Tube002
+    400010: Column004
+    400012: Column008
+    400014: Column Block Top 007
+    400016: Column Block 007
+    400018: Column Block Top 003
+    400020: Column Block 003
+    400022: Column Block Top 002
+    400024: Column Block 002
+    400026: Column Block Top 008
+    400028: Column Block 008
+    400030: Column Block Top 001
+    400032: Column002
+    400034: Column Top 001
+    400036: Column Base 01
+    400038: Stand
+    400040: Column Base 005
+    400042: Column Block 01
+    400044: Column Top 006
+    400046: Base
+    400048: Column Block Top 006
+    400050: Column Block 006
+    400052: Column Block Top 005
+    400054: Column Block 005
+    400056: Column Block Top 004
+    400058: Column Block 004
+    400060: Column01
+    400062: Column007
+    400064: Column Top 004
+    400066: Tube001
+    400068: Column Base 002
+    400070: Column Base 007
+    400072: Column Top 005
+    400074: Column Base 004
+    400076: Column Top 007
+    400078: Column Base 008
+    400080: Column Top 008
+    400082: Top Detail
+    400084: Column003
+    400086: Column005
+    400088: Column Base 003
+    400090: Column Base 006
+    2300000: Column006
+    2300002: Column Top 003
+    2300004: Column Top 002
+    2300006: Tube002
+    2300008: Column004
+    2300010: Column008
+    2300012: Column Block Top 007
+    2300014: Column Block 007
+    2300016: Column Block Top 003
+    2300018: Column Block 003
+    2300020: Column Block Top 002
+    2300022: Column Block 002
+    2300024: Column Block Top 008
+    2300026: Column Block 008
+    2300028: Column Block Top 001
+    2300030: Column002
+    2300032: Column Top 001
+    2300034: Column Base 01
+    2300036: Stand
+    2300038: Column Base 005
+    2300040: Column Block 01
+    2300042: Column Top 006
+    2300044: Base
+    2300046: Column Block Top 006
+    2300048: Column Block 006
+    2300050: Column Block Top 005
+    2300052: Column Block 005
+    2300054: Column Block Top 004
+    2300056: Column Block 004
+    2300058: Column01
+    2300060: Column007
+    2300062: Column Top 004
+    2300064: Tube001
+    2300066: Column Base 002
+    2300068: Column Base 007
+    2300070: Column Top 005
+    2300072: Column Base 004
+    2300074: Column Top 007
+    2300076: Column Base 008
+    2300078: Column Top 008
+    2300080: Top Detail
+    2300082: Column003
+    2300084: Column005
+    2300086: Column Base 003
+    2300088: Column Base 006
+    3300000: Column006
+    3300002: Column Top 003
+    3300004: Column Top 002
+    3300006: Tube002
+    3300008: Column004
+    3300010: Column008
+    3300012: Column Block Top 007
+    3300014: Column Block 007
+    3300016: Column Block Top 003
+    3300018: Column Block 003
+    3300020: Column Block Top 002
+    3300022: Column Block 002
+    3300024: Column Block Top 008
+    3300026: Column Block 008
+    3300028: Column Block Top 001
+    3300030: Column002
+    3300032: Column Top 001
+    3300034: Column Base 01
+    3300036: Stand
+    3300038: Column Base 005
+    3300040: Column Block 01
+    3300042: Column Top 006
+    3300044: Base
+    3300046: Column Block Top 006
+    3300048: Column Block 006
+    3300050: Column Block Top 005
+    3300052: Column Block 005
+    3300054: Column Block Top 004
+    3300056: Column Block 004
+    3300058: Column01
+    3300060: Column007
+    3300062: Column Top 004
+    3300064: Tube001
+    3300066: Column Base 002
+    3300068: Column Base 007
+    3300070: Column Top 005
+    3300072: Column Base 004
+    3300074: Column Top 007
+    3300076: Column Base 008
+    3300078: Column Top 008
+    3300080: Top Detail
+    3300082: Column003
+    3300084: Column005
+    3300086: Column Base 003
+    3300088: Column Base 006
+    4300000: Base
+    4300002: Stand
+    4300004: Column Block 01
+    4300006: Column Base 01
+    4300008: Column Top 001
+    4300010: Column Block Top 001
+    4300012: Column01
+    4300014: Column Block 008
+    4300016: Column Base 008
+    4300018: Column Top 008
+    4300020: Column Block Top 008
+    4300022: Column008
+    4300024: Column Block 002
+    4300026: Column Base 002
+    4300028: Column Top 002
+    4300030: Column Block Top 002
+    4300032: Column002
+    4300034: Column Block 003
+    4300036: Column Base 003
+    4300038: Column Top 003
+    4300040: Column Block Top 003
+    4300042: Column003
+    4300044: Column Block 007
+    4300046: Column Base 007
+    4300048: Column Top 007
+    4300050: Column Block Top 007
+    4300052: Column007
+    4300054: Column Block 004
+    4300056: Column Base 004
+    4300058: Column Top 004
+    4300060: Column Block Top 004
+    4300062: Column004
+    4300064: Column Block 005
+    4300066: Column Base 005
+    4300068: Column Top 005
+    4300070: Column Block Top 005
+    4300072: Column005
+    4300074: Column Block 006
+    4300076: Column Base 006
+    4300078: Column Top 006
+    4300080: Column Block Top 006
+    4300082: Column006
+    4300084: Tube001
+    4300086: Tube002
+    4300088: Top Detail
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0500000007
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
